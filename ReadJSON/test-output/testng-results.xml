@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9090" started-at="2018-09-06T12:36:30Z" finished-at="2018-09-06T12:36:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9090" started-at="2018-09-06T12:36:30Z" finished-at="2018-09-06T12:36:39Z">
+      <class name="core.testperf">
+        <test-method status="PASS" signature="setProp()[pri:0, instance:core.testperf@62ee68d8]" name="setProp" duration-ms="9061" started-at="2018-09-06T18:06:30Z" finished-at="2018-09-06T18:06:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setProp -->
+      </class> <!-- core.testperf -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
